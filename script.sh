@@ -1,1 +1,2 @@
- My name is tushar kajla
+#!/bin/bash 
+My name is tushar kajla
